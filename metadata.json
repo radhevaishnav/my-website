@@ -1,0 +1,5 @@
+{
+  "name": "MediaFlow",
+  "description": "A mobile-friendly media downloader for legal and authorized content. Supports video and audio extraction with quality selection.",
+  "requestFramePermissions": []
+}
